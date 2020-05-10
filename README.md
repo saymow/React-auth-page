@@ -1,9 +1,6 @@
 <h1 align="center">
-   React reponsive auth page. :fire:
+   :fire: React reponsive auth page :fire:
 </h1>
-<p aling="center">
-   [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e6122af081d24d309c29539ba98d759c)](https://app.codacy.com/manual/saymow/React-auth-page?utm_source=github.com&utm_medium=referral&utm_content=saymow/React-auth-page&utm_campaign=Badge_Grade_Dashboard)
-</p>
 <h2 align="center">
   <img src="https://github.com/saymow/React-auth-page/blob/master/photos/login.png">
   <br>
