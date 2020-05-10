@@ -33,7 +33,7 @@
 $ git clone git@github.com:saymow/React-auth-page.git
 
 # Change into its directory
-$ cd auth_Page
+$ cd React-auth_Page
 
 # Install dependencies
 $ npm install
