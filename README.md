@@ -1,5 +1,5 @@
 <h1 align="center">
-   :fire: React reponsive auth page :fire:
+   :fire: React responsive auth page :fire:
 </h1>
 <h2 align="center">
   <img src="https://github.com/saymow/React-auth-page/blob/master/photos/login.png">
