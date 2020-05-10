@@ -17,6 +17,9 @@
 </p>
 
 ## :rocket: Tecnologies used:
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e6122af081d24d309c29539ba98d759c)](https://app.codacy.com/manual/saymow/React-auth-page?utm_source=github.com&utm_medium=referral&utm_content=saymow/React-auth-page&utm_campaign=Badge_Grade_Dashboard)
+
 * [ReactJS](https://reactjs.org/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Axios](https://github.com/axios/axios)
