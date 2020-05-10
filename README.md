@@ -30,7 +30,7 @@
 
 ```
 # Clone this repositoy
-$ git clone 
+$ git clone git@github.com:saymow/React-auth-page.git
 
 # Change into its directory
 $ cd auth_Page
